@@ -32,3 +32,11 @@ Domain: Educational Courses Sales | Tech Stack: Python, ML | Aug '19
 Objective: An online Educational company looking for 'Hot leads' that are most likely to convert into paying customer.
 Solution: Designed a machine learning model via logistic regression to predict the probability scores or lead Score.
 Key Achievement: Created a model with an AUC score of 0.85
+
+# 5. Stats and EDA
+Credit_Risk_bank_loan_repayment.zip
+
+Domain: Bank Credit Risk Management | Tech Stack: Python, EDA | June '19 
+Objective: To reduce the risk of Loan repayment default
+Solution:  Identification of such Applicants through EDA
+Key Achievement:: Social Circle, Credit rating(EXT_SOURCE), Occupation type, Education type, Family Status, Income type, Tenure of the loan are the factors to be considered during Credit risk assessment
